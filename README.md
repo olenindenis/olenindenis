@@ -6,7 +6,8 @@
 
 ## About me
 
-<img align="right" src="images/gifs/coder3.gif" width="500" height="320" />
+<img align="right" src="images/gifs/coder.gif" width="500" height="320" />
+<p>&nbsp;</p>
 
 I’m senior Software Engineer from 🇺🇦. I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
