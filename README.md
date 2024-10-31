@@ -2,7 +2,7 @@
 
 ### 📢 [Updates from Ukrainian Open Source Community](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/CommunityUpdates.md)
 <hr>
-# Golang Dev
+<h1>Golang Developer</h1>
 
 #### Hi! I`m passionate senior software engineer from 🇺🇦
 
