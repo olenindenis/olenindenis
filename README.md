@@ -6,7 +6,7 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-### 📢 [Updates from Ukrainian Open Source Community](/docs/CommunityUpdates.md)
+### 📢 [Updates from Ukrainian Open Source Community](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/CommunityUpdates.md)
 
 ## About me
 
