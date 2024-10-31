@@ -4,6 +4,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/olenindenis) [![GitHub followers](https://img.shields.io/github/followers/olenindenis?label=Follow&style=social)](https://github.com/olenindenis/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-olenindenis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-olenin-b66ab082/)](https://www.linkedin.com/in/denis-olenin-b66ab082/)
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+### 📢 [Updates from Ukrainian Open Source Community](/docs/CommunityUpdates.md)
+
 ## About me
 
 I have worked at a number of companies gaining teamwork and a lot of skills.
