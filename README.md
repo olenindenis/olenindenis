@@ -6,7 +6,7 @@
 
 ## About me
 
-I’m senior Software Engineer from 🇺🇦. I have worked at a number of companies gaining teamwork and a lot of skills.
+I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
 
 ```go
