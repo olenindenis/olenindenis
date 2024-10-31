@@ -121,7 +121,7 @@ func main() {
 ## 💻 Statistics
 
 <a href="https://github.com/olenindenis/olenindenis">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=olenindenis&theme=nord&column=8" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=olenindenis&theme=nord&column=8&count_private=true" />
 </a>
 <p>&nbsp;</p>
 <a href="https://github.com/olenindenis/olenindenis">
