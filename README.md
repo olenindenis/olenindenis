@@ -3,7 +3,7 @@
 ### 📢 [Updates from Ukrainian Open Source Community](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/CommunityUpdates.md)
 <hr>
 
-#### Hi! I`m passionate senior software engineer from 🇺🇦
+<h3>Hi! I`m passionate senior software engineer from 🇺🇦</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/olenindenis) [![GitHub followers](https://img.shields.io/github/followers/olenindenis?label=Follow&style=social)](https://github.com/olenindenis/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-olenindenis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-olenin-b66ab082/)](https://www.linkedin.com/in/denis-olenin-b66ab082/)
 
