@@ -120,14 +120,8 @@ func main() {
 ---
 ## 💻 Statistics
 
-<a href="https://github.com/olenindenis/olenindenis">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=olenindenis&theme=tokyonight&column=8&rank=-?" />
-</a>
-<p>&nbsp;</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=prussian" alt="olenindenis" /></p>
-<p>&nbsp;</p>
 <a href="https://github.com/olenindenis/olenindenis">
   <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="olenindenis GitHub Stats" />
 </a>
-<p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" /></p>
