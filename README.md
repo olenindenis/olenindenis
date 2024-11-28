@@ -12,7 +12,7 @@
 I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
 
-```sh
+<div class="terminal">
 programmingLangs
  ├─Go
  ├─C
@@ -62,73 +62,7 @@ infrastructure
  ├─Kubernetes
  ├─DTM
  └─Temporal
-```
-
-```go
-package main
-
-import "fmt"
-
-const categories = 6
-
-func main() {
-  data := make(map[string][]string, categories)
-  data["programmingLangs"] = []string{
-    "Go",
-    "C",
-    "PHP",
-    "Python",
-  }
-  data["databases"] = []string{
-    "PostgreSQL",
-    "MySQL",
-    "Mongodb",
-    "Redis",
-    "Memcached",
-    "DragonflyDB",
-    "Cassandra",
-    "etcd",
-    "Clickhouse",
-    "Elasticsearch",
-  }
-  data["dataBuses"] = []string{
-    "Kafka",
-    "RabbitMQ",
-    "Nats",
-  }
-  data["proxyServers"] = []string{
-    "nginx",
-    "traefik",
-    "haproxy",
-    "envoy",
-  }
-  data["automationTools"] = []string{
-    "Terraform",
-    "Ansible",
-    "GitHub Actions",
-    "GitLab CI",
-  }
-  data["observability"] = []string{
-    "Grafana",
-    "Prometheus",
-    "Loki",
-    "Tempo",
-  }
-  data["infrastructure"] = []string{
-    "vault",
-    "consul",
-    "Docker",
-    "Docker-compose",
-    "Kubernetes",
-    "DTM",
-    "Temporal",
-  }
-
-  for k, v := range data {
-    fmt.Printf("%s: %v\n", k, v)
-  }
-}
-```
+</div>
 
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
