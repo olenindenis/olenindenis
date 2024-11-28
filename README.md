@@ -12,7 +12,7 @@
 I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
 
-```sh
+```bash
 programmingLangs
  └ \33[1;31mGo\33[m
  └ C
