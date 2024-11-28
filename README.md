@@ -12,7 +12,7 @@
 I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
 
-<div class="terminal">
+<div style="font-family: 'Roboto Mono', sans-serif; background-color: #333; color: #ccc; font-size: 18px; line-height: 1.6;">
 programmingLangs
  ├─Go
  ├─C
