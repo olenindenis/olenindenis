@@ -8,6 +8,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/olenindenis) [![GitHub followers](https://img.shields.io/github/followers/olenindenis?label=Follow&style=social)](https://github.com/olenindenis/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-olenindenis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-olenin-b66ab082/)](https://www.linkedin.com/in/denis-olenin-b66ab082/)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ## About me
 
