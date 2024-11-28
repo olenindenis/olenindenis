@@ -14,10 +14,10 @@ As well I have experience with private clouds and building big projects from scr
 
 ```c
 programmingLangs
- └ \33[1;31mGo\33[m
- └ C
- └ PHP
- └ Python
+ ├─Go
+ ├─C
+ ├─PHP
+ └─Python
 ```
 
 ```go
