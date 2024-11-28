@@ -18,6 +18,50 @@ programmingLangs
  ├─C
  ├─PHP
  └─Python
+
+databases
+ ├─PostgreSQL
+ ├─MySQL
+ ├─Mongodb
+ ├─Redis
+ ├─Memcached
+ ├─DragonflyDB
+ ├─Cassandra
+ ├─etcd
+ ├─Clickhouse
+ └─Elasticsearch
+
+dataBuses
+ ├─Kafka
+ ├─RabbitMQ
+ └─Nats
+
+proxyServers
+ ├─nginx
+ ├─traefik
+ ├─haproxy
+ └─envoy
+
+automationTools
+ ├─Terraform
+ ├─Ansible
+ ├─GitHub Actions
+ └─GitLab CI
+
+observability
+ ├─Grafana
+ ├─Prometheus
+ ├─Loki
+ └─Tempo
+
+infrastructure
+ ├─vault
+ ├─consul
+ ├─Docker
+ ├─Docker-compose
+ ├─Kubernetes
+ ├─DTM
+ └─Temporal
 ```
 
 ```go
