@@ -16,11 +16,7 @@ I have worked at a number of companies gaining teamwork and a lot of skills.
 As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
 
 ```shell
-programmingLangs
- ├─Go
- ├─C
- ├─PHP
- └─Python
+
 
 databases
  ├─PostgreSQL
@@ -89,6 +85,49 @@ infrastructure
       <td align="center" width="88">
         <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
         <br>Python
+      </td>
+  </tr>
+</table>
+</div>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/postgresql-svgrepo-com.svg" alt="PostgreSQL" width="45" height="45" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
+        <br>MariaDb
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
+        <br>MySql
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
+        <br>Elastic
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/memcached-icon.svg" alt="Memcached" width="45" height="45" />
+        <br>Memcached
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
+        <br>Redis
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/dragonfly-vector-1-svgrepo-com.svg" alt="dragonflydb" width="45" height="45" />
+        <br>DragonflyDB
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/etcd-svgrepo-com.svg" alt="etcd" width="45" height="45" />
+        <br>etcd
       </td>
   </tr>
 </table>
@@ -175,24 +214,20 @@ infrastructure
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 <p align="left">
-<img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
-<img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
-<img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
-<img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
+
 
 <img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
 <img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
 <img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
 <img src="images/svgicons/envoyproxyio-icon.svg" alt="envoy" width="45" height="45" />
-<img src="images/svgicons/postgresql-svgrepo-com.svg" alt="PostgreSQL" width="45" height="45" />
-<img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
-<img src="images/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
-<img src="images/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
-<img src="images/svgicons/memcached-icon.svg" alt="Memcached" width="45" height="45" />
-<img src="images/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
-<img src="images/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
-<img src="images/svgicons/dragonfly-vector-1-svgrepo-com.svg" alt="dragonflydb" width="45" height="45" />
-<img src="images/svgicons/etcd-svgrepo-com.svg" alt="etcd" width="45" height="45" />
+
+
+
+
+
+
+
+
 <img src="images/svgicons/natsio-icon.svg" alt="nats" width="45" height="45" />
 <img src="images/svgicons/apache_kafka-icon.svg" alt="kafka" width="45" height="45" />
 <img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
