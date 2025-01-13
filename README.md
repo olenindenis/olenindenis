@@ -67,6 +67,111 @@ infrastructure
  └─Temporal
 ```
 
+<h2>🚀 Tools/ Technologies/ What I use/used</h2>
+
+<h3>Programming langs</h2>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
+        <br>Go
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
+        <br>C
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
+        <br>PHP
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
+        <br>Python
+      </td>
+  </tr>
+</table>
+</div>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
+        <br>Go
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
+        <br>C
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
+        <br>PHP
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
+        <br>Python
+      </td>
+    <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+        <td align="center" width="88">
+       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+      </td>
+  </tr>
+    <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+      </td>
+      <td align="center" width="88">
+        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+     </td>
+     <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
+        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+</table>
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 <p align="left">
@@ -74,6 +179,7 @@ infrastructure
 <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
 <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
 <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
+
 <img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
 <img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
 <img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
