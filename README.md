@@ -13,55 +13,7 @@
 ## About me
 
 I have worked at a number of companies gaining teamwork and a lot of skills.
-As well I have experience with private clouds and building big projects from scrath. I am most skilled in:
-
-```shell
-
-
-databases
- ├─PostgreSQL
- ├─MySQL
- ├─Mongodb
- ├─Redis
- ├─Memcached
- ├─DragonflyDB
- ├─Cassandra
- ├─etcd
- ├─Clickhouse
- └─Elasticsearch
-
-dataBuses
- ├─Kafka
- ├─RabbitMQ
- └─Nats
-
-proxyServers
- ├─nginx
- ├─traefik
- ├─haproxy
- └─envoy
-
-automationTools
- ├─Terraform
- ├─Ansible
- ├─GitHub Actions
- └─GitLab CI
-
-observability
- ├─Grafana
- ├─Prometheus
- ├─Loki
- └─Tempo
-
-infrastructure
- ├─vault
- ├─consul
- ├─Docker
- ├─Docker-compose
- ├─Kubernetes
- ├─DTM
- └─Temporal
-```
+As well I have experience with private clouds and building big projects from scrath.
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 
@@ -89,6 +41,8 @@ infrastructure
   </tr>
 </table>
 </div>
+
+<h3>Databases</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -133,122 +87,167 @@ infrastructure
 </table>
 </div>
 
+<h3>Data Buses</h2>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
       <td align="center"  width="88">
-        <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
-        <br>Go
+        <img src="images/svgicons/natsio-icon.svg" alt="nats" width="45" height="45" />
+        <br>nats
       </td>
       <td align="center" width="88">
-        <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
-        <br>C
+        <img src="images/svgicons/apache_kafka-icon.svg" alt="kafka" width="45" height="45" />
+        <br>kafka
       </td>
       <td align="center" width="88">
-        <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
-        <br>PHP
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-        <br>Python
-      </td>
-    <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
-    <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
-    </td>
-    <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
-    </td>
-    <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
-    </td>
-        <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+        <img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
+        <br>rabbitmq
       </td>
   </tr>
-    <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
-    </td>
-    <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
-    </td>
-    <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
+</table>
+</div>
+
+<h3>Proxy Servers</h2>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
+        <br>nginx
       </td>
       <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
-    </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
-  <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
-     </td>
+        <img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
+        <br>traefic
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
+        <br>haproxy
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/envoyproxyio-icon.svg" alt="envoy" width="45" height="45" />
+        <br>envoy
+      </td>
+  </tr>
 </table>
+</div>
 
-<h2>🚀 Tools/ Technologies/ What I use/used</h2>
-<p align="left">
+<h3>Automation</h2>
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/terraform-svgrepo-com.svg" alt="Terraform" width="45" height="45" />
+        <br>Terraform
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
+        <br>Ansible
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
+        <br>Github, Actions
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
+        <br>Gitlab, CI
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
+        <br>BitBucket, Pipelines
+      </td>
+  </tr>
+</table>
+</div>
 
-<img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
-<img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
-<img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
-<img src="images/svgicons/envoyproxyio-icon.svg" alt="envoy" width="45" height="45" />
+<h3>Observability</h2>
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
+        <br>prometheus
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/grafana-svgrepo-com.svg" alt="grafana" width="45" height="45" />
+        <br>grafana
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/loki_icon-com.svg" alt="loki" width="45" height="45" />
+        <br>loki
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/grafana-tempo.svg" alt="tempo" width="45" height="45" />
+        <br>tempo
+      </td>
+  </tr>
+</table>
+</div>
 
+<h3>Infrastructure</h2>
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
+        <br>Aws
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/digitalocean-svgrepo-com.svg" alt="DO" width="50" height="45" />
+        <br>DO
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/vault-svgrepo-com.svg" alt="Vault" width="45" height="45" />
+        <br>Vault
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/consul-svgrepo-com.svg" alt="Consul" width="45" height="45" />
+        <br>Consul
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
+        <br>Docker, Compose
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/temporalio.svg" alt="Temporal" width="45" height="45" />
+        <br>Temporal
+      </td>
+  </tr>
+</table>
+</div>
 
+<h3>DevTools</h2>
 
-
-
-
-<img src="images/svgicons/natsio-icon.svg" alt="nats" width="45" height="45" />
-<img src="images/svgicons/apache_kafka-icon.svg" alt="kafka" width="45" height="45" />
-<img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-<img src="images/svgicons/terraform-svgrepo-com.svg" alt="Terraform" width="45" height="45" />
-<img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
-<img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
-<img src="images/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
-<img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
-<img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
-<img src="images/svgicons/digitalocean-svgrepo-com.svg" alt="DO" width="50" height="45" />
-<img src="images/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
-<img src="images/svgicons/jetbrains-icon.svg" alt="Jetbrains" width="45" height="45" />
-<img src="images/svgicons/vault-svgrepo-com.svg" alt="Vault" width="45" height="45" />
-<img src="images/svgicons/consul-svgrepo-com.svg" alt="Consul" width="45" height="45" />
-<img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
-<img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-<img src="images/svgicons/temporalio.svg" alt="Temporal" width="45" height="45" />
-<img src="images/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
-<img src="images/svgicons/grafana-svgrepo-com.svg" alt="grafana" width="45" height="45" />
-
-</p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+        <img src="images/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
+        <br>VS-Code
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/jetbrains-icon.svg" alt="Jetbrains" width="45" height="45" />
+        <br>Jetbrains
+      </td>
+      <td align="center" width="88">
+        <img src="images/svgicons/neovim-mark.svg" alt="neovim" width="45" height="45" />
+        <br>neovim
+      </td>
+      <td align="center" width="88">
+        <img src="https://github.com/go-delve/delve/blob/master/assets/delve_icon.png" alt="delve" width="45" height="45" />
+        <br>delve
+      </td>
+  </tr>
+</table>
+</div>
 
 ---
 ## 💻 Statistics
