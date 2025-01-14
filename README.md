@@ -20,233 +20,233 @@ As well I have experience with private clouds and building big projects from scr
 <h3>Programming langs</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
-        <br>Go
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
-        <br>C
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
-        <br>PHP
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-        <br>Python
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
+          <br>Go
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
+          <br>C
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
+          <br>PHP
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
+          <br>Python
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Databases</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/postgresql-svgrepo-com.svg" alt="PostgreSQL" width="45" height="45" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
-        <br>MariaDb
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
-        <br>MySql
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
-        <br>Elastic
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/memcached-icon.svg" alt="Memcached" width="45" height="45" />
-        <br>Memcached
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
-        <br>Redis
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/dragonfly-vector-1-svgrepo-com.svg" alt="dragonflydb" width="45" height="45" />
-        <br>DragonflyDB
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/etcd-svgrepo-com.svg" alt="etcd" width="45" height="45" />
-        <br>etcd
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/postgresql-svgrepo-com.svg" alt="PostgreSQL" width="45" height="45" />
+          <br>PostgreSQL
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
+          <br>MariaDb
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
+          <br>MySql
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
+          <br>Elastic
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/memcached-icon.svg" alt="Memcached" width="45" height="45" />
+          <br>Memcached
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
+          <br>Redis
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
+          <br>MongoDB
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/dragonfly-vector-1-svgrepo-com.svg" alt="dragonflydb" width="45" height="45" />
+          <br>DragonflyDB
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/etcd-svgrepo-com.svg" alt="etcd" width="45" height="45" />
+          <br>etcd
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Data Buses</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/natsio-icon.svg" alt="nats" width="45" height="45" />
-        <br>nats
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/apache_kafka-icon.svg" alt="kafka" width="45" height="45" />
-        <br>kafka
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-        <br>rabbitmq
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/natsio-icon.svg" alt="nats" width="45" height="45" />
+          <br>nats
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/apache_kafka-icon.svg" alt="kafka" width="45" height="45" />
+          <br>kafka
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
+          <br>rabbitmq
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Proxy Servers</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
-        <br>nginx
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
-        <br>traefic
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
-        <br>haproxy
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/envoyproxyio-icon.svg" alt="envoy" width="45" height="45" />
-        <br>envoy
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
+          <br>nginx
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/traefikio-icon.svg" alt="traefic" width="45" height="45" />
+          <br>traefic
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/haproxy-icon.svg" alt="haproxy" width="45" height="45" />
+          <br>haproxy
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/envoyproxyio-icon.svg" alt="envoy" width="45" height="45" />
+          <br>envoy
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Automation</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/terraform-svgrepo-com.svg" alt="Terraform" width="45" height="45" />
-        <br>Terraform
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
-        <br>Ansible
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
-        <br>Github, Actions
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
-        <br>Gitlab, CI
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
-        <br>BitBucket, Pipelines
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/terraform-svgrepo-com.svg" alt="Terraform" width="45" height="45" />
+          <br>Terraform
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
+          <br>Ansible
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
+          <br>Github, Actions
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
+          <br>Gitlab, CI
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
+          <br>BitBucket, Pipelines
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Observability</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
-        <br>prometheus
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/grafana-svgrepo-com.svg" alt="grafana" width="45" height="45" />
-        <br>grafana
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/loki_icon-com.svg" alt="loki" width="45" height="45" />
-        <br>loki
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/grafana-tempo.svg" alt="tempo" width="45" height="45" />
-        <br>tempo
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
+          <br>prometheus
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/grafana-svgrepo-com.svg" alt="grafana" width="45" height="45" />
+          <br>grafana
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/loki_icon-com.svg" alt="loki" width="45" height="45" />
+          <br>loki
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/grafana-tempo.svg" alt="tempo" width="45" height="45" />
+          <br>tempo
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>Infrastructure</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
-        <br>Aws
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/digitalocean-svgrepo-com.svg" alt="DO" width="50" height="45" />
-        <br>DO
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/vault-svgrepo-com.svg" alt="Vault" width="45" height="45" />
-        <br>Vault
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/consul-svgrepo-com.svg" alt="Consul" width="45" height="45" />
-        <br>Consul
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
-        <br>Docker, Compose
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/temporalio.svg" alt="Temporal" width="45" height="45" />
-        <br>Temporal
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
+          <br>Aws
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/digitalocean-svgrepo-com.svg" alt="DO" width="50" height="45" />
+          <br>DO
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/vault-svgrepo-com.svg" alt="Vault" width="45" height="45" />
+          <br>Vault
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/consul-svgrepo-com.svg" alt="Consul" width="45" height="45" />
+          <br>Consul
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
+          <br>Docker, Compose
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
+          <br>Kubernetes
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/temporalio.svg" alt="Temporal" width="45" height="45" />
+          <br>Temporal
+        </td>
+    </tr>
+  </table>
 </div>
 
 <h3>DevTools</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center"  width="88">
-        <img src="images/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
-        <br>VS-Code
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/jetbrains-icon.svg" alt="Jetbrains" width="45" height="45" />
-        <br>Jetbrains
-      </td>
-      <td align="center" width="88">
-        <img src="images/svgicons/neovim-mark.svg" alt="neovim" width="45" height="45" />
-        <br>neovim
-      </td>
-      <td align="center" width="88">
-        <img src="https://github.com/go-delve/delve/blob/master/assets/delve_icon.png" alt="delve" width="45" height="45" />
-        <br>delve
-      </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+        <td align="center"  width="88">
+          <img src="images/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
+          <br>VS-Code
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/jetbrains-icon.svg" alt="Jetbrains" width="45" height="45" />
+          <br>Jetbrains
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/neovim-mark.svg" alt="neovim" width="45" height="45" />
+          <br>neovim
+        </td>
+        <td align="center" width="88">
+          <img src="https://github.com/go-delve/delve/blob/master/assets/delve_icon.png" alt="delve" width="45" height="45" />
+          <br>delve
+        </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -256,41 +256,39 @@ As well I have experience with private clouds and building big projects from scr
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />](https://github-readme-streak-stats.herokuapp.com/?user=olenindenis)
+[<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" height="175" alt="olenindenis GitHub Stats" />](https://github.com/olenindenis/olenindenis)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />](https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis)
 
-<a href="https://github.com/olenindenis/olenindenis">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" height="175" alt="olenindenis GitHub Stats" />
-</a>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis&theme=cobalt"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&theme=cobalt"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis&theme=cobalt"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis&theme=cobalt"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis&theme=cobalt"/>
+          </a>
+        </th>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&theme=cobalt"/>
+          </a>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis&theme=cobalt"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis&theme=cobalt"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
