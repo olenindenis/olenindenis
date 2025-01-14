@@ -252,8 +252,8 @@ As well I have experience with private clouds and building big projects from scr
 ---
 ## 💻 Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=onedark" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&theme=cobalt&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
 
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=prussian" alt="olenindenis" />
