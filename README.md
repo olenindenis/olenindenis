@@ -252,13 +252,14 @@ As well I have experience with private clouds and building big projects from scr
 ---
 ## 💻 Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=onedark" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
 
-<p>
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=prussian" alt="olenindenis" />
+
 <a href="https://github.com/olenindenis/olenindenis">
   <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="olenindenis GitHub Stats" />
 </a>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" />
