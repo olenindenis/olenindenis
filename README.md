@@ -252,14 +252,45 @@ As well I have experience with private clouds and building big projects from scr
 ---
 ## 💻 Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&include_all_commits=true&theme=prussian" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=prussian" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=prussian" alt="olenindenis" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />
 
 <a href="https://github.com/olenindenis/olenindenis">
   <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="olenindenis GitHub Stats" />
 </a>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" />
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
