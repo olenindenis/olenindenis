@@ -259,22 +259,22 @@ As well I have experience with private clouds and building big projects from scr
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />
 
 <a href="https://github.com/olenindenis/olenindenis">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="olenindenis GitHub Stats" />
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" height="175" alt="olenindenis GitHub Stats" />
 </a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="olenindenis" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />
 
 <table>
   <tbody>
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis&theme=cobalt"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olenindenis&theme=cobalt"/>
         </a>
       </th>
     </tr>
@@ -283,12 +283,12 @@ As well I have experience with private clouds and building big projects from scr
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis&theme=cobalt"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olenindenis&theme=cobalt"/>
         </a>
       </td>
     </tr>
