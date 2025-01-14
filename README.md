@@ -252,11 +252,11 @@ As well I have experience with private clouds and building big projects from scr
 ---
 ## 💻 Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+<!-- [<img src="https://github-readme-stats.vercel.app/api?username=olenindenis&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olenindenis&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120) -->
 
 
-[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />](https://github-readme-streak-stats.herokuapp.com/?user=olenindenis)
+<!-- [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olenindenis&theme=cobalt" alt="olenindenis" />](https://github-readme-streak-stats.herokuapp.com/?user=olenindenis) -->
 [<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" height="175" alt="olenindenis GitHub Stats" />](https://github.com/olenindenis/olenindenis)
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />](https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis)
 
