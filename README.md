@@ -256,18 +256,16 @@ As well I have experience with private clouds and building big projects from scr
 [<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=olenindenis&show_icons=true&line_height=27&count_private=true&theme=cobalt" height="175" alt="olenindenis GitHub Stats" />](https://github.com/olenindenis/olenindenis)
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />](https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis)
 
-<!-- <div style="display: flex; align-items: flex-start; align: center; width:100%;"> -->
+<div style="display: flex; align-items: flex-start; align: center; width:100%;">
   <table style="width:100%">
-  <tbody style="width:100%">
-    <tr>
-      <td colspan="2">
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis&theme=cobalt"/>
-        </a>
-      </td>
-    </tr>
-  <!-- </tbody> -->
-    <!-- <tbody> -->
+    <tbody style="width:100%">
+      <tr>
+        <td colspan="2">
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis">
+            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis&theme=cobalt"/>
+          </a>
+        </td>
+      </tr>
       <tr>
         <th>
           <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olenindenis">
@@ -280,8 +278,6 @@ As well I have experience with private clouds and building big projects from scr
           </a>
         </th>
       </tr>
-    <!-- </tbody> -->
-    <!-- <tbody> -->
       <tr>
         <td>
           <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olenindenis">
@@ -296,4 +292,4 @@ As well I have experience with private clouds and building big projects from scr
       </tr>
     </tbody>
   </table>
-<!-- </div> -->
+</div>
