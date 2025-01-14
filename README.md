@@ -258,7 +258,7 @@ As well I have experience with private clouds and building big projects from scr
 
 <!-- <div style="display: flex; align-items: flex-start; align: center; width:100%;"> -->
   <table style="width:100%">
-  <!-- <tbody> -->
+  <tbody style="width:100%">
     <tr>
       <td colspan="2">
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis">
@@ -294,6 +294,6 @@ As well I have experience with private clouds and building big projects from scr
           </a>
         </td>
       </tr>
-    <!-- </tbody> -->
+    </tbody>
   </table>
 <!-- </div> -->
