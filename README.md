@@ -261,7 +261,7 @@ As well I have experience with private clouds and building big projects from scr
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis&theme=cobalt&show_icons=true&locale=en&layout=compact" height="175" alt="olenindenis" />](https://github-readme-stats.vercel.app/api/top-langs?username=olenindenis)
 
 <div style="display: flex; align-items: flex-start; align: center">
-  <table width="100%">
+  <table style="width:100%;">
     <tbody>
       <tr>
         <th>
