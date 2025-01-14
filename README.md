@@ -264,7 +264,7 @@ As well I have experience with private clouds and building big projects from scr
   <table style="width:100%;">
   <tbody>
     <tr>
-      <td>
+      <td colspan="2">
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olenindenis&theme=cobalt"/>
         </a>
