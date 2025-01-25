@@ -1,5 +1,9 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
+<style type="text/css">
+table {background-color:#666666;}
+</style>
+
 ### 📢 [Updates from Ukrainian Open Source Community](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/CommunityUpdates.md)
 <hr>
 
@@ -20,7 +24,7 @@ As well I have experience with private clouds and building big projects from scr
 <h3>Programming langs</h2>
 
 <div style="display: flex; align-items: flex-start; align: center;">
-  <table align="center" style="background-color:#666666;">
+  <table align="center">
     <tr>
         <td align="center"  width="88">
           <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
