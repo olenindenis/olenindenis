@@ -19,7 +19,7 @@ As well I have experience with private clouds and building big projects from scr
 
 <h3>Programming langs</h2>
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center; background-color:#666666;">
   <table align="center">
     <tr>
         <td align="center"  width="88">
