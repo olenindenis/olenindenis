@@ -19,8 +19,8 @@ As well I have experience with private clouds and building big projects from scr
 
 <h3>Programming langs</h2>
 
-<div style="display: flex; align-items: flex-start; align: center; background-color:#666666;">
-  <table align="center">
+<div style="display: flex; align-items: flex-start; align: center;">
+  <table align="center" style="background-color:#666666;">
     <tr>
         <td align="center"  width="88">
           <img src="images/svgicons/go-svgrepo-com.svg" alt="go" width="45" height="45" />
