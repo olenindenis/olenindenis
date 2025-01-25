@@ -176,7 +176,7 @@ As well I have experience with private clouds and building big projects from scr
           <br>grafana
         </td>
         <td align="center" width="88">
-          <img src="images/svgicons/loki_icon-com.svg" alt="loki" width="45" height="45" />
+          <img src="images/svgicons/loki_icon.svg" alt="loki" width="45" height="45" />
           <br>loki
         </td>
         <td align="center" width="88">
