@@ -5,7 +5,7 @@
 
 <h3>Hi! I`m passionate senior software engineer from 🇺🇦</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/olenindenis) [![GitHub followers](https://img.shields.io/github/followers/olenindenis?label=Follow&style=social)](https://github.com/olenindenis/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-olenindenis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-olenin-b66ab082/)](https://www.linkedin.com/in/denis-olenin-b66ab082/)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/olenindenis) [![GitHub followers](https://img.shields.io/github/followers/olenindenis?label=Follow&style=social)](https://github.com/olenindenis/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-olenindenis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denys-olenin-b66ab082/)](https://www.linkedin.com/in/denys-olenin-b66ab082/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -29,6 +29,10 @@ As well I have experience with private clouds and building big projects from scr
         <td align="center" width="88">
           <img src="images/svgicons/open-std_c-icon.svg" alt="c" width="45" height="45" />
           <br>C
+        </td>
+        <td align="center" width="88">
+          <img src="images/svgicons/rust.svg" alt="rust" width="45" height="45" />
+          <br>Rust
         </td>
         <td align="center" width="88">
           <img src="images/svgicons/php-svgrepo-com.svg" alt="php" width="45" height="45" />
